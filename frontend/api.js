@@ -1,5 +1,5 @@
 // CycleFit API connector
-const API = "http://localhost:8000";
+const API = "https://cyclefit.onrender.com";
 
 // SIGNUP
 async function apiSignup(username, password) {
